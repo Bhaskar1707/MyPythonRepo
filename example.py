@@ -8,6 +8,7 @@ def main():
 def greet(name):
     print(f"Hello, {name}!")
 
+
 def farewell():
     print("Good Bye")
 
