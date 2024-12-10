@@ -3,6 +3,7 @@
 def main():
     print("Welcome to MyPythonRepo!")
     greet("Alice")
+    farewell()
 
 
 def greet(name):
